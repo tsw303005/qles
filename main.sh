@@ -2,7 +2,7 @@
 cd $HOME
 
 # Clone this repo
-git clone https://github.com/engine210/qles.git
+git clone https://github.com/tsw303005/qles.git
 export REPO_DIR=$HOME/qles
 export BAK_DIR=$HOME/.qles_backup_tmp
 export LBLUE='\033[1;34m' # Light blue
